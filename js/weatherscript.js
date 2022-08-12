@@ -24,8 +24,6 @@ function handleUi (temp, humidity, description, main, pressure, wind, cityName) 
     document.getElementById("pressure.value").innerHTML = Math.trunc(pressure) + " hPa";
     document.getElementById("wind.speed.value").innerHTML = Math.trunc(wind) + "  m/s";
 
-    handleImage (main)
-
     switch (main) {
       case "thunderstorm":
         handleImage ("thunderstorm");
