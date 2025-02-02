@@ -3,9 +3,6 @@
 ### Submitters 
 Arnav Arora and Vedaant Yadav
 
-### School
-Suncity School, Sector 54
-
 ## About
 
 As we looked at online weather sites, something became increasingly clear. Most top weather sites have an unimaginable amount of advertisements and clutter which makes it simply impossible to get the basic weather data that is required at a glance. We have created an extremely minimal experience compared to these websites and offer users quick, relevant data retrieval with as few steps as possible. 
